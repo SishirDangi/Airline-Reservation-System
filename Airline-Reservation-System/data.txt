@@ -1,0 +1,10 @@
+_________________ CSIT AIRLINES ___________________
+___________________ TICKET ________________________
+____________________________________________________
+Customer ID:211813
+Customer Name:mohan
+Customer Gender:male
+		Description
+
+Destination		Dubai
+Flight Cost: 		60000
